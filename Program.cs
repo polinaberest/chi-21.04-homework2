@@ -2,6 +2,7 @@
 using homework2;
 internal class Program
 {
+    //2nd variant - the first one in another branch
     private static void Main(string[] args)
     {
         int taskNum;
